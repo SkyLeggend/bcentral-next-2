@@ -1,7 +1,7 @@
 [
   {
-    "number": "",
-    "suffix": "",
+    "number": "10",
+    "suffix": "+",
     "description": "Creamos y fortalecemos comunidades digitales para aumentar la conexión con tu audiencia.",
     "image": "/img/hero/star-hero-home-ye.webp",
 
@@ -21,8 +21,8 @@
     "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
   },
   {
-    "number": "",
-    "suffix": "",
+    "number": "10",
+    "suffix": "+",
     "description": "Impulsamos tu marca con creadores de contenido estratégicos y audiencias comprometidas.",
     "image": "/img/illustrations/phone-bcentral-home.webp",
     "imageWidth": 800,
@@ -50,8 +50,8 @@
     "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
   },
   {
-    "number": "",
-    "suffix": "",
+    "number": "10",
+    "suffix": "+",
     "description": "Diseñamos experiencias únicas que conectan tu marca con su público objetivo.",
     "image": "/img/illustrations/bcentral-robot-1.webp",
     "imageWidth": 800,
@@ -70,8 +70,8 @@
     "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
   },
   {
-    "number": "",
-    "suffix": "",
+    "number": "10",
+    "suffix": "+",
     "description": "Gestionamos y representamos talento con estrategias personalizadas, maximizando su proyección y oportunidades en la industria.",
     "image": "/img/illustrations/astronauta-bcentral.webp",
     "imageWidth": 800,
