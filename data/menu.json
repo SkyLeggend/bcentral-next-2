@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Inicio",
+    "href": "/"
+    
+  },
+  {
+    "title": "Servicios",
+    "submenu": [
+      { "label": "Influencer Marketing", "href": "/influencer-marketing" },
+      { "label": "Relaciones Públicas", "href": "/relaciones-publicas" },
+      { "label": "Mercado Digital", "href": "/marketing-digital" }
+    ]
+  },
+  {
+    "title": "Nosotros",
+    "href": "/sobre-nosotros"
+    
+  },
+  {
+    "title": "Contacto",
+    "href": "/contact"
+  }
+]
